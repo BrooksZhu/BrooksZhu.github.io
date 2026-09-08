@@ -7,6 +7,4 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I am Gexuan Zhu, a student in the [School of Mathematical Sciences at the University of Science and Technology of China](https://math.ustc.edu.cn/main.htm) and an incoming Ph.D. student in the [Department of Mathematics at the National University of Singapore](https://www.math.nus.edu.sg/).
-
-My current major is Information and Computational Science. My research interests include machine learning, optimization, and operations research.
+Hi! I am Gexuan Zhu. I am a first-year PhD student in Computer Engineering at the University of Virginia, advised by Prof. Jing Yang. I received my bachelor's degree in Mathematics from the University of Science and Technology of China (USTC). Before joining UVA, I briefly studied at the National University of Singapore (NUS) under the supervision of Prof. Kim-Chuan Toh. My research interests are in machine learning theory, with a particular focus on the optimization and statistical principles underlying modern machine learning. I am also interested in reinforcement learning.
